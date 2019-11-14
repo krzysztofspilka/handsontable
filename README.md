@@ -1,8 +1,6 @@
 <div align="center">
 <img src="./handsontable-logo.svg" alt="Handsontable logo" width="300px">
 
-[![Handsontable](./handsontable-logo.svg)](//handsontable.com)
-
 **Handsontable** is a JavaScript/HTML5 data grid component with spreadsheet look & feel. <br>
 It provides easy data binding, data validation, filtering, sorting and CRUD operations.
 
