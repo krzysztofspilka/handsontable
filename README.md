@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./handsontable-logo.svg" alt="Handsontable logo" width="300px">
 
 [![Handsontable](./handsontable-logo.svg)](//handsontable.com)
 
